@@ -1,0 +1,62 @@
+
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "9ZSTf9EL9dzsfgqtnt2K6_Pb5ZQ",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "aHtfdlYRWfOjOXCmKza2LiDkCdc",
+        "id": "IkJXy4zpQUM",
+        "snippet": {
+          "publishedAt": "2023-06-06T20:25:55Z",
+          "channelId": "UCsvQSv7EeCMHyYb9ENKAJZw",
+          "title": "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : E유형",
+          "description": "채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join\n\n안녕하세요! 웹스토리보이입니다. \n2023년 웹디자인기능사 실기버전을 준비했습니다. \n스크립트는 제이쿼리 버전 및 자바스크립트 버전으로 준비되어 있습니다. \n레이아웃을 먼저 익히고, 스크립트를 외운다음, 최종 마무리 사이트로 마무리 하시면 됩니다. \n감사합니다.\n\n재생목록 : https://youtube.com/playlist?list=PL4UVBBIc6giK95pWwwoTQP82aI9iGNo-g\n완성 미리 보기 : https://webstoryboy.github.io/webstoryboy/w_webd/index.html\n완성 디자인 보기 :  https://www.figma.com/file/iD3Ehm4HRhe16Vx6kxz3ob/%5B%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%80-%EC%8B%A4%EB%A0%A5%EC%9D%B4%EB%8B%A4%5D-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%A0%9C%EC%9E%91%ED%8E%B8?type=design&node-id=26248%3A1098&t=CfKBEPG0lp6GJUNI-1\n\n## 레이아웃 연습\nA1 유형 : 레이아웃 기본 유형1 : https://webstoryboy.co.kr/1870\nA2 유형 : 레이아웃 기본 유형2 : https://webstoryboy.co.kr/1871\nA3 유형 : 레이아웃 기본 유형3 : https://webstoryboy.co.kr/1872\nA4 유형 : 레이아웃 기본 유형4 : https://webstoryboy.co.kr/1873\nB1 유형 : 전체 영역이 들어간 레이아웃 유형1 : https://webstoryboy.co.kr/1874\nB2 유형 : 전체 영역이 들어간 레이아웃 유형2 : https://webstoryboy.co.kr/1875\nB3 유형 : 전체 영역이 들어간 레이아웃 유형3 : https://webstoryboy.co.kr/1876\nB4 유형 : 전체 영역이 들어간 레이아웃 유형4 : https://webstoryboy.co.kr/1877\nC1 유형 : 사이드 레이아웃 유형1 : https://webstoryboy.co.kr/1878\nC2 유형 : 사이드 레이아웃 유형2 : https://webstoryboy.co.kr/1879\nC3 유형 : 사이드 레이아웃 유형3 : https://webstoryboy.co.kr/1880\nC4 유형 : 사이드 레이아웃 유형4 : https://webstoryboy.co.kr/1881\nD1 유형 : 반응형 레이아웃 2단 유형1 : https://webstoryboy.co.kr/1882\nD2 유형 : 반응형 레이아웃 2단 유형2 : https://webstoryboy.co.kr/1883\nD3 유형 : 반응형 레이아웃 2단 유형3 : https://webstoryboy.co.kr/1884\nD4 유형 : 반응형 레이아웃 2단 유형4 : https://webstoryboy.co.kr/1885\nE1 유형 : 반응형 레이아웃 3단 유형1 : https://webstoryboy.co.kr/1886\nE2 유형 : 반응형 레이아웃 3단 유형2 : https://webstoryboy.co.kr/1887\nE3 유형 : 반응형 레이아웃 3단 유형3 : https://webstoryboy.co.kr/1888\nE4 유형 : 반응형 레이아웃 3단 유형4 : https://webstoryboy.co.kr/1889\n\n## 스크립트 연습\nM1 유형 : 메뉴 가로 유형1 : https://webstoryboy.co.kr/1890\nM2 유형 : 메뉴 가로 유형2 : https://webstoryboy.co.kr/1891\nM3 유형 : 메뉴 가로 유형3 : https://webstoryboy.co.kr/1892\nM4 유형 : 메뉴 세로 유형1 : https://webstoryboy.co.kr/1893\nM5 유형 : 메뉴 세로 유형2 : https://webstoryboy.co.kr/1894\nM6 유형 : 메뉴 세로 유형3 : https://webstoryboy.co.kr/1895\nS1 유형 : 슬라이드 페이드 유형 : https://webstoryboy.co.kr/1896\nS2 유형 : 슬라이드 좌우 유형 : https://webstoryboy.co.kr/1897\nS3 유형 : 슬라이드 위아래 유형 : https://webstoryboy.co.kr/1898\nS4 유형 : 슬라이드 페이드 유형(반응형) : https://webstoryboy.co.kr/1899\nS5 유형 : 슬라이드 좌우 유형(반응형) : https://webstoryboy.co.kr/1900\nS6 유형 : 슬라이드 위아래 유형(반응형) : https://webstoryboy.co.kr/1901\nT1 유형 : 탭 메뉴 : https://webstoryboy.co.kr/1902\nP1 유형 : 팝업 유형 : https://webstoryboy.co.kr/1903\n\n## 최종 마무리 사이트 연습\nSITE1 유형(A유형) : https://webstoryboy.co.kr/1904\nSITE2 유형(B유형) : https://webstoryboy.co.kr/1905\nSITE3 유형(C유형) : https://webstoryboy.co.kr/1906\nSITE4 유형(D유형) : https://webstoryboy.co.kr/1907\nSITE5 유형(E유형) : https://webstoryboy.co.kr/1908\n\n궁금한 점이나 이상한 점들은 댓글 부탁드립니다. \n댓글은 수시로 확인하고 있으니 최대한 빨리 답변 드리겠습니다. \n\n영상은 채널 가입시 모두 볼 수 있습니다. \n채널을 가입하거나 다른 경로를 통해 유로로 볼 수 있는 점 참고 바랍니다.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IkJXy4zpQUM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IkJXy4zpQUM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IkJXy4zpQUM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IkJXy4zpQUM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IkJXy4zpQUM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Webstoryboy",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : E유형",
+            "description": "채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw/join\n\n안녕하세요! 웹스토리보이입니다. \n2023년 웹디자인기능사 실기버전을 준비했습니다. \n스크립트는 제이쿼리 버전 및 자바스크립트 버전으로 준비되어 있습니다. \n레이아웃을 먼저 익히고, 스크립트를 외운다음, 최종 마무리 사이트로 마무리 하시면 됩니다. \n감사합니다.\n\n재생목록 : https://youtube.com/playlist?list=PL4UVBBIc6giK95pWwwoTQP82aI9iGNo-g\n완성 미리 보기 : https://webstoryboy.github.io/webstoryboy/w_webd/index.html\n완성 디자인 보기 :  https://www.figma.com/file/iD3Ehm4HRhe16Vx6kxz3ob/%5B%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%80-%EC%8B%A4%EB%A0%A5%EC%9D%B4%EB%8B%A4%5D-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%A0%9C%EC%9E%91%ED%8E%B8?type=design&node-id=26248%3A1098&t=CfKBEPG0lp6GJUNI-1\n\n## 레이아웃 연습\nA1 유형 : 레이아웃 기본 유형1 : https://webstoryboy.co.kr/1870\nA2 유형 : 레이아웃 기본 유형2 : https://webstoryboy.co.kr/1871\nA3 유형 : 레이아웃 기본 유형3 : https://webstoryboy.co.kr/1872\nA4 유형 : 레이아웃 기본 유형4 : https://webstoryboy.co.kr/1873\nB1 유형 : 전체 영역이 들어간 레이아웃 유형1 : https://webstoryboy.co.kr/1874\nB2 유형 : 전체 영역이 들어간 레이아웃 유형2 : https://webstoryboy.co.kr/1875\nB3 유형 : 전체 영역이 들어간 레이아웃 유형3 : https://webstoryboy.co.kr/1876\nB4 유형 : 전체 영역이 들어간 레이아웃 유형4 : https://webstoryboy.co.kr/1877\nC1 유형 : 사이드 레이아웃 유형1 : https://webstoryboy.co.kr/1878\nC2 유형 : 사이드 레이아웃 유형2 : https://webstoryboy.co.kr/1879\nC3 유형 : 사이드 레이아웃 유형3 : https://webstoryboy.co.kr/1880\nC4 유형 : 사이드 레이아웃 유형4 : https://webstoryboy.co.kr/1881\nD1 유형 : 반응형 레이아웃 2단 유형1 : https://webstoryboy.co.kr/1882\nD2 유형 : 반응형 레이아웃 2단 유형2 : https://webstoryboy.co.kr/1883\nD3 유형 : 반응형 레이아웃 2단 유형3 : https://webstoryboy.co.kr/1884\nD4 유형 : 반응형 레이아웃 2단 유형4 : https://webstoryboy.co.kr/1885\nE1 유형 : 반응형 레이아웃 3단 유형1 : https://webstoryboy.co.kr/1886\nE2 유형 : 반응형 레이아웃 3단 유형2 : https://webstoryboy.co.kr/1887\nE3 유형 : 반응형 레이아웃 3단 유형3 : https://webstoryboy.co.kr/1888\nE4 유형 : 반응형 레이아웃 3단 유형4 : https://webstoryboy.co.kr/1889\n\n## 스크립트 연습\nM1 유형 : 메뉴 가로 유형1 : https://webstoryboy.co.kr/1890\nM2 유형 : 메뉴 가로 유형2 : https://webstoryboy.co.kr/1891\nM3 유형 : 메뉴 가로 유형3 : https://webstoryboy.co.kr/1892\nM4 유형 : 메뉴 세로 유형1 : https://webstoryboy.co.kr/1893\nM5 유형 : 메뉴 세로 유형2 : https://webstoryboy.co.kr/1894\nM6 유형 : 메뉴 세로 유형3 : https://webstoryboy.co.kr/1895\nS1 유형 : 슬라이드 페이드 유형 : https://webstoryboy.co.kr/1896\nS2 유형 : 슬라이드 좌우 유형 : https://webstoryboy.co.kr/1897\nS3 유형 : 슬라이드 위아래 유형 : https://webstoryboy.co.kr/1898\nS4 유형 : 슬라이드 페이드 유형(반응형) : https://webstoryboy.co.kr/1899\nS5 유형 : 슬라이드 좌우 유형(반응형) : https://webstoryboy.co.kr/1900\nS6 유형 : 슬라이드 위아래 유형(반응형) : https://webstoryboy.co.kr/1901\nT1 유형 : 탭 메뉴 : https://webstoryboy.co.kr/1902\nP1 유형 : 팝업 유형 : https://webstoryboy.co.kr/1903\n\n## 최종 마무리 사이트 연습\nSITE1 유형(A유형) : https://webstoryboy.co.kr/1904\nSITE2 유형(B유형) : https://webstoryboy.co.kr/1905\nSITE3 유형(C유형) : https://webstoryboy.co.kr/1906\nSITE4 유형(D유형) : https://webstoryboy.co.kr/1907\nSITE5 유형(E유형) : https://webstoryboy.co.kr/1908\n\n궁금한 점이나 이상한 점들은 댓글 부탁드립니다. \n댓글은 수시로 확인하고 있으니 최대한 빨리 답변 드리겠습니다. \n\n영상은 채널 가입시 모두 볼 수 있습니다. \n채널을 가입하거나 다른 경로를 통해 유로로 볼 수 있는 점 참고 바랍니다."
+          }
+        },
+        "statistics": {
+          "viewCount": "1052",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "15"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }

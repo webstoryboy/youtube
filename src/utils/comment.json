@@ -1,0 +1,235 @@
+
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "UTPlZO4-XdGtc06yimyV6CL3210",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 10
+    },
+    "items": [
+      {
+        "kind": "youtube#commentThread",
+        "etag": "_lH5CMcWFgTuoidZPo4O_1DPgGk",
+        "id": "Ugz48vdYVhR8V8gHt5x4AaABAg",
+        "snippet": {
+          "videoId": "IkJXy4zpQUM",
+          "topLevelComment": {
+            "kind": "youtube#comment",
+            "etag": "wsO6S7FmcvpBI4WjBPER5onb9jI",
+            "id": "Ugz48vdYVhR8V8gHt5x4AaABAg",
+            "snippet": {
+              "videoId": "IkJXy4zpQUM",
+              "textDisplay": "덕분에 혼자서 열심히 공부하고있습니다 감사합니더",
+              "textOriginal": "덕분에 혼자서 열심히 공부하고있습니다 감사합니더",
+              "authorDisplayName": "조민혜",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRzYfdsYxg80uhzTeEYoI2hvVNqQnnyV5VN2_mNidg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCOuWYLIhNibvqap7Oda8PoQ",
+              "authorChannelId": {
+                "value": "UCOuWYLIhNibvqap7Oda8PoQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-08-19T04:44:40Z",
+              "updatedAt": "2023-08-19T04:44:40Z"
+            }
+          },
+          "canReply": true,
+          "totalReplyCount": 1,
+          "isPublic": true
+        }
+      },
+      {
+        "kind": "youtube#commentThread",
+        "etag": "d15qcTvhGpCeUIly4E-m6Ee99-w",
+        "id": "UgxtVYokslPvzUF3rFJ4AaABAg",
+        "snippet": {
+          "videoId": "IkJXy4zpQUM",
+          "topLevelComment": {
+            "kind": "youtube#comment",
+            "etag": "GZoUWo_u_h0h38HOX-n6gf9G4QA",
+            "id": "UgxtVYokslPvzUF3rFJ4AaABAg",
+            "snippet": {
+              "videoId": "IkJXy4zpQUM",
+              "textDisplay": "옆으로 사이트를 늘리고 줄일땐 안에 컨텐츠들이 자리 잡힌채로 잘 있는데<br>위아래로 줄이거나 늘릴땐 컨텐츠들이 제 자리에 맞춰서 고정된채로 줄거나 늘어나는게 아니라<br>아예 고정이 돼서 맞춰서 따라 안 움직이고 다른 컨텐츠들 자리로 침범하거나 가려져서 안 보여요..ㅜㅜ",
+              "textOriginal": "옆으로 사이트를 늘리고 줄일땐 안에 컨텐츠들이 자리 잡힌채로 잘 있는데\n위아래로 줄이거나 늘릴땐 컨텐츠들이 제 자리에 맞춰서 고정된채로 줄거나 늘어나는게 아니라\n아예 고정이 돼서 맞춰서 따라 안 움직이고 다른 컨텐츠들 자리로 침범하거나 가려져서 안 보여요..ㅜㅜ",
+              "authorDisplayName": "빈",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaS49a1tdi_Pg9d4M14P-Or-tXl5jBcwaa95vTM52rpXAjR2h9e21dIzWtALOatsHOE=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCZYmpLT3OCR5JzCiahrzIow",
+              "authorChannelId": {
+                "value": "UCZYmpLT3OCR5JzCiahrzIow"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-08-18T11:15:51Z",
+              "updatedAt": "2023-08-18T11:41:38Z"
+            }
+          },
+          "canReply": true,
+          "totalReplyCount": 1,
+          "isPublic": true
+        }
+      },
+      {
+        "kind": "youtube#commentThread",
+        "etag": "OjTdkx4d436qRx11Mq0juBwvNMA",
+        "id": "UgzIZuPrGuXoWL0RHZV4AaABAg",
+        "snippet": {
+          "videoId": "IkJXy4zpQUM",
+          "topLevelComment": {
+            "kind": "youtube#comment",
+            "etag": "B4xpo5AsRI82MP9Nud1di2fCfsQ",
+            "id": "UgzIZuPrGuXoWL0RHZV4AaABAg",
+            "snippet": {
+              "videoId": "IkJXy4zpQUM",
+              "textDisplay": "정말 잘 들었습니다!<br>우연히 알게 되었는데 원래 듣던 유료인강보다 훨씬 듣기 좋았고<br>천천히 쉽게 이해 할 수 있었어요<br>덕분에 실기 막힘없이 풀고왔어요<br>결과는 아직 모르겠지만..😂😂<br>아무튼 양질의 강의 감사합니다!!",
+              "textOriginal": "정말 잘 들었습니다!\n우연히 알게 되었는데 원래 듣던 유료인강보다 훨씬 듣기 좋았고\n천천히 쉽게 이해 할 수 있었어요\n덕분에 실기 막힘없이 풀고왔어요\n결과는 아직 모르겠지만..😂😂\n아무튼 양질의 강의 감사합니다!!",
+              "authorDisplayName": "Majesty Dong",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTShARTc8s7r8aY58IdTVkhSaQwbFH_FQYYhQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCsrIVg1mXWH0YXmD8a2H1cA",
+              "authorChannelId": {
+                "value": "UCsrIVg1mXWH0YXmD8a2H1cA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-08-16T03:26:26Z",
+              "updatedAt": "2023-08-16T03:26:26Z"
+            }
+          },
+          "canReply": true,
+          "totalReplyCount": 1,
+          "isPublic": true
+        }
+      },
+      {
+        "kind": "youtube#commentThread",
+        "etag": "SSk-8ySu5H6Oot3NNxHjKi5w9Co",
+        "id": "UgyyQQT8Ch4o4uLEpgN4AaABAg",
+        "snippet": {
+          "videoId": "IkJXy4zpQUM",
+          "topLevelComment": {
+            "kind": "youtube#comment",
+            "etag": "QDz0pl35K3uh0W9Z9FCMm0xtRrU",
+            "id": "UgyyQQT8Ch4o4uLEpgN4AaABAg",
+            "snippet": {
+              "videoId": "IkJXy4zpQUM",
+              "textDisplay": "슬라이드 , 베너 이미지는 백그라운드에 넣고 갤러리나 링크는 그냥 넣어서 조절해도 될까요? <br>그리고 반응형이 아닌 유형도 슬라이드는  백그라운드로 넣는게 좀 더 편하던데 괜찮을까요?",
+              "textOriginal": "슬라이드 , 베너 이미지는 백그라운드에 넣고 갤러리나 링크는 그냥 넣어서 조절해도 될까요? \n그리고 반응형이 아닌 유형도 슬라이드는  백그라운드로 넣는게 좀 더 편하던데 괜찮을까요?",
+              "authorDisplayName": "채이",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/7fZ1cvrh0IQk3KqX34QizAPfJizPDn3EnUdudlzyWkBnaG3KVYXPEioAaykSz4YrKHLw7FtchA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCbSDjTyXTmbUPsK7Xm4q3PA",
+              "authorChannelId": {
+                "value": "UCbSDjTyXTmbUPsK7Xm4q3PA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-07-14T12:07:13Z",
+              "updatedAt": "2023-07-14T12:07:13Z"
+            }
+          },
+          "canReply": true,
+          "totalReplyCount": 2,
+          "isPublic": true
+        }
+      },
+      {
+        "kind": "youtube#commentThread",
+        "etag": "_1xI1x8w1jQOg6oiBbd4TBLwRl0",
+        "id": "UgzM6bkcL38D5tEbdxV4AaABAg",
+        "snippet": {
+          "videoId": "IkJXy4zpQUM",
+          "topLevelComment": {
+            "kind": "youtube#comment",
+            "etag": "jkHuf5_aAAboHdJ4Vmhx_RqhC8A",
+            "id": "UgzM6bkcL38D5tEbdxV4AaABAg",
+            "snippet": {
+              "videoId": "IkJXy4zpQUM",
+              "textDisplay": "26줄에 },600) 다음에  ; 세미콜론이 빠져서 그런걸까요 ?",
+              "textOriginal": "26줄에 },600) 다음에  ; 세미콜론이 빠져서 그런걸까요 ?",
+              "authorDisplayName": "Soohye Park",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaS3nsu0GxVjBhKPj4u08Zj2flJfdyvpHJHp3Q=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCxp2TggLn2GHV_FFUnKodqQ",
+              "authorChannelId": {
+                "value": "UCxp2TggLn2GHV_FFUnKodqQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-06-09T05:39:55Z",
+              "updatedAt": "2023-06-09T05:39:55Z"
+            }
+          },
+          "canReply": true,
+          "totalReplyCount": 1,
+          "isPublic": true
+        }
+      },
+      {
+        "kind": "youtube#commentThread",
+        "etag": "rwAfT0C-o5E6TXWc2BIwZCmrOLs",
+        "id": "UgxAhZjgO6qoGsbbFv54AaABAg",
+        "snippet": {
+          "videoId": "IkJXy4zpQUM",
+          "topLevelComment": {
+            "kind": "youtube#comment",
+            "etag": "WjVTcfWSuZLOGJxplHGX9wKd81E",
+            "id": "UgxAhZjgO6qoGsbbFv54AaABAg",
+            "snippet": {
+              "videoId": "IkJXy4zpQUM",
+              "textDisplay": "마지막 슬라이드 스크립트 부분 오류는 setTimeout안에서 currentIndex를 초기화 하는 과정에서 currentIndex = 0; 인데currentIndex == 0; 이라고 대입연산자가 아닌 비교연산자를 사용하셔서 오류가 난 것 같습니다!",
+              "textOriginal": "마지막 슬라이드 스크립트 부분 오류는 setTimeout안에서 currentIndex를 초기화 하는 과정에서 currentIndex = 0; 인데currentIndex == 0; 이라고 대입연산자가 아닌 비교연산자를 사용하셔서 오류가 난 것 같습니다!",
+              "authorDisplayName": "Sungwoo Jo",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSrMnCIJ2lMbpzsOaiH4TZKhmQgnEZ0JjbcuwST=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC7F3a_U3yl6aJw2Z6v7TwAw",
+              "authorChannelId": {
+                "value": "UC7F3a_U3yl6aJw2Z6v7TwAw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-06-08T12:16:25Z",
+              "updatedAt": "2023-06-08T12:16:55Z"
+            }
+          },
+          "canReply": true,
+          "totalReplyCount": 1,
+          "isPublic": true
+        }
+      },
+      {
+        "kind": "youtube#commentThread",
+        "etag": "jBPeHhttxE96eE5mNyblkpkuMuw",
+        "id": "Ugx1s9_RqPE5mdEAmVl4AaABAg",
+        "snippet": {
+          "videoId": "IkJXy4zpQUM",
+          "topLevelComment": {
+            "kind": "youtube#comment",
+            "etag": "l_UK712aiQiCuJFrVxBvl6ed26s",
+            "id": "Ugx1s9_RqPE5mdEAmVl4AaABAg",
+            "snippet": {
+              "videoId": "IkJXy4zpQUM",
+              "textDisplay": "<a href=\"about:invalid#zCSafez\"></a><a href=\"about:invalid#zCSafez\"></a><a href=\"about:invalid#zCSafez\"></a>",
+              "textOriginal": "",
+              "authorDisplayName": "Dowon Sweet",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQg-4n1eDPwA6rxlH3MXp5naQkSG7pq_uJnOPDi=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCAjFBB3d6JW07CoPFFNQf_Q",
+              "authorChannelId": {
+                "value": "UCAjFBB3d6JW07CoPFFNQf_Q"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-06-06T22:44:57Z",
+              "updatedAt": "2023-06-06T22:44:57Z"
+            }
+          },
+          "canReply": true,
+          "totalReplyCount": 1,
+          "isPublic": true
+        }
+      }
+    ]
+  }
